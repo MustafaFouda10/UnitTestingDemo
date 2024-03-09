@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.34408.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdealWeightCalculator", "IdealWeightCalculator\IdealWeightCalculator.csproj", "{B9934C13-1070-48EA-96F1-4C9B070E555F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdealWeightCalculator.Test", "IdealWeightCalculator.Test\IdealWeightCalculator.Test.csproj", "{6D5A71BA-6DAF-4466-80E5-5936A47D7515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9934C13-1070-48EA-96F1-4C9B070E555F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9934C13-1070-48EA-96F1-4C9B070E555F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9934C13-1070-48EA-96F1-4C9B070E555F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9934C13-1070-48EA-96F1-4C9B070E555F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5A71BA-6DAF-4466-80E5-5936A47D7515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5A71BA-6DAF-4466-80E5-5936A47D7515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5A71BA-6DAF-4466-80E5-5936A47D7515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5A71BA-6DAF-4466-80E5-5936A47D7515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81A9B6E1-D154-41D2-AEFC-BE0CC791A572}
+	EndGlobalSection
+EndGlobal
